@@ -1,0 +1,18 @@
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Debug\net6.0-windows\TTR Invasion Tracker.exe
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Debug\net6.0-windows\TTR Invasion Tracker.deps.json
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Debug\net6.0-windows\TTR Invasion Tracker.runtimeconfig.json
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Debug\net6.0-windows\TTR Invasion Tracker.dll
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Debug\net6.0-windows\TTR Invasion Tracker.pdb
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR_Invasion_Tracker.Form1.resources
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR_Invasion_Tracker.Properties.Resources.resources
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.dll
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\refint\TTR Invasion Tracker.dll
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.pdb
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\TTR Invasion Tracker.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\obj\Debug\net6.0-windows\ref\TTR Invasion Tracker.dll
