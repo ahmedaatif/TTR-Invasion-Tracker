@@ -1,0 +1,9 @@
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\TTR Invasion Tracker.exe
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\TTR Invasion Tracker.dll
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\TTR Invasion Tracker.deps.json
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\TTR Invasion Tracker.runtimeconfig.json
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\TTR Invasion Tracker.dll.config
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\TTR Invasion Tracker.pdb
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Windows.SDK.NET.dll
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\WinRT.Runtime.dll
+C:\Users\ahmed\source\repos\TTR Invasion Tracker\TTR Invasion Tracker\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Toolkit.Uwp.Notifications.dll
